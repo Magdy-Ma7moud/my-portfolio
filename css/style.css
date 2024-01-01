@@ -8555,6 +8555,9 @@ h1, h2, h3, h4, h5,
                 #hero-section{
                   padding-top: 0;
                 }
+                .ftco-about ul.about-info li span{
+                  font-size:12px;
+                }
               }
         .owl-carousel.home-slider .slider-item .slider-text .btn-custom {
           bordeR: 1px solid #ffbd39;
